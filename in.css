@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(178, 180, 250);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: rgb(68, 24, 189);
+    text-decoration: underline overline;
+    text-align: center;
+    background-color: white;
+}
+img{
+    display: block;
+    border: 2px;
+    border-style: dotted;
+    border-color: blue;
+    border-width: 100  px;
+    height: 90px;
+    float: right;
+}
+select{
+    background-color: powderblue;
+}
+#p{
+    font-weight: bold;
+    color: darkblue;
+}
+p{
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+    font-family: cursive;
+}
+#v{
+    color: green; 
+}
+#a{
+    color: red;
+
+}
+.cla{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
